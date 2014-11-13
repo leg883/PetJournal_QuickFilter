@@ -1,3 +1,5 @@
+-- 在宠物日志添加类型过滤栏
+
 -- Move the pet list down
 PetJournalListScrollFrame:SetPoint("TOPLEFT", PetJournalLeftInset, 3, -60)
 -- PetJournalEnhanced draws their own ScrollFrame
